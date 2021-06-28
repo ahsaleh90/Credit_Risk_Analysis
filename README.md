@@ -16,92 +16,92 @@ EasyEnsembleClassifier
 Naive Random Oversampling
 ![](https://github.com/ahsaleh90/Credit_Risk_Analysis/blob/main/img/naive_random_oversampling.png)
 
-Balanced Accuracy Score for the model is 0.6547.
+- Balanced Accuracy Score for the model is 0.6547.
 
 For high risk performance:
 
-precision is very low at 1%
-recall is great at 72%
+- precision is very low at 1%
+- recall is great at 72%
 
 For low risk performance:
 
-Precision is high at 100%
-recall is fair at 59%
+- Precision is high at 100%
+- recall is fair at 59%
 
 
 SMOTE Oversampling
 ![](https://github.com/ahsaleh90/Credit_Risk_Analysis/blob/main/img/SMOTE_oversampling.png)
 
-Balanced Accuracy Score for the model is 0.6620.
+- Balanced Accuracy Score for the model is 0.6620.
 
 For high risk performance:
 
-precision is very low at 1%
-recall is goodat 63%
+- precision is very low at 1%
+- recall is goodat 63%
 
 For low risk performance:
 
-Precision is high at 100%
-recall is good at 69%
+- Precision is high at 100%
+- recall is good at 69%
 
 
 Undersmapling
 ![](https://github.com/ahsaleh90/Credit_Risk_Analysis/blob/main/img/undersampling.png)
 
-Balanced Accuracy Score for the model is 0.5442.
+- Balanced Accuracy Score for the model is 0.5442.
 
 For high risk performance:
 
-precision is very low at 1%
-recall is good at 69%
+- precision is very low at 1%
+- recall is good at 69%
 
 For low risk performance:
 
-Precision is high at 100%
-recall is bad at 40%
+- Precision is high at 100%
+- recall is bad at 40%
 
 Combination (Over and under) sampling
 ![](https://github.com/ahsaleh90/Credit_Risk_Analysis/blob/main/img/combination_over_under_sampling.png)
 
-Balanced Accuracy Score for the model is 0.5442.
+- Balanced Accuracy Score for the model is 0.5442.
 
 For high risk performance:
 
-precision is very low at 1%
-recall is very good at 72%
+- precision is very low at 1%
+- recall is very good at 72%
 
 For low risk performance:
 
-Precision is high at 100%
-recall is fair at 57%
+- Precision is high at 100%
+- recall is fair at 57%
 
 Balanced Random Forest Classifier
 ![](https://github.com/ahsaleh90/Credit_Risk_Analysis/blob/main/img/balanced_random_forest_classifier.png)
-Balanced Accuracy Score for the model is 0.7885.
+- Balanced Accuracy Score for the model is 0.7885.
 
 For high risk performance:
 
-precision is very low at 3%
-recall is very good at 70%
+- precision is very low at 3%
+- recall is very good at 70%
 
 For low risk performance:
 
-Precision is high at 100%
-recall is very good at 87%
+- Precision is high at 100%
+- recall is very good at 87%
 
 Easy Ensemble adaBoost Classifier
 ![](https://github.com/ahsaleh90/Credit_Risk_Analysis/blob/main/img/easy_ensemble_adaboost_classifier.png)
-Balanced Accuracy Score for the model is 0.9316.
+- Balanced Accuracy Score for the model is 0.9316.
 
 For high risk performance:
 
-precision is very low at 9%
-recall is excellent at 92%
+- precision is very low at 9%
+- recall is excellent at 92%
 
 For low risk performance:
 
-Precision is high at 100%
-recall is excellent at 94%
+- Precision is high at 100%
+- recall is excellent at 94%
 
 ## Summary
 
